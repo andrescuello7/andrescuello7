@@ -1,6 +1,8 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Andres Cuello</h1>
-<h3 align="center">I am Backend Developer</h3>
+<p align="center" width="300">
+  <img align="center" width="200" src="https://media.licdn.com/dms/image/D4D03AQGQaD4BbYJz3g/profile-displayphoto-shrink_200_200/0/1690410451542?e=1709164800&v=beta&t=f1xrcqQbVEGrGCNlvgzjcSyx3vxVm77vPjn5VKeQscs" />
+  <h1 align="center">I'm Andres Cuello</h1>
+</p>
 <h3 align="center">Typescript - NestJS, Python - FastApi, Java - Spring Boot </h3>
 
 ¡Here are some ideas to get you started👇!
